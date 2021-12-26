@@ -1,5 +1,5 @@
 # patika-dev-veri-yap-lar--ve-algoritmalar-proje-1
-##patika.dev Veri yapıları ve algoritmalar bölüm sonu projesi
+## patika.dev Veri yapıları ve algoritmalar bölüm sonu projesi
 
 
 1 - [22, 27, 16, 2, 18, 6] dizisinin insertion sort aşamaları;
